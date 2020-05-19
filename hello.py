@@ -1,2 +1,2 @@
 if __name == "__main__":
-    print ()
+    print ("Hello World")
